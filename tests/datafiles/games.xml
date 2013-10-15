@@ -1,0 +1,20 @@
+<ODDS>
+<SCHEDULE value="1381685798" />
+<TIME value="1381722539" GMT_offset="8" />
+<STARTED value="Servlet started at (1381384339)" />
+<LOADED value="Schedule loaded at (1381685798)(1381685798)" />
+  <LEAGUE number="2" name="College Football">
+    <GAME date="20131015" time="1700" seconds="1381647600">
+      <TEAM number="301" name="UL Lafayette">
+        <OPENER value="" />
+        <LINE book="1" value="" />
+        <LINE book="16" value="3-115" seconds="28604" />
+      </TEAM>
+      <TEAM number="302" name="Western Kentucky">
+        <OPENER value="6" />
+        <LINE book="1" value="4&amp;frac12;" seconds="13225" />
+        <LINE book="14" value="4" seconds="19432" />
+      </TEAM>
+    </GAME>
+  </LEAGUE>
+</ODDS>
